@@ -5,10 +5,10 @@ import traceback
 
 # List of device IPs (you can add more devices here)
 device_ips = [
-    '10.8.88.2',
-    '10.8.88.3',
-    '10.8.33.6',
-    '10.8.33.7'
+    'IP-1',
+    'IP-2',
+    'IP-3',
+    'IP-4'
     # Add more device IPs as needed
 ]
 
